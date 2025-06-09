@@ -2,7 +2,7 @@
 title: "Balmung: Access and pricing"
 execute:
     echo: true 
-format: pdf
+format: html
 jupyter: julia-1.10
 ---
 

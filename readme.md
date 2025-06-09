@@ -1,10 +1,5 @@
----
-execute:
-  echo: true
-jupyter: julia-1.10
-title: "Balmung: Access and pricing"
-toc-title: Table of contents
----
+
+This README is a preview of the Quarto notebook attached. For a better rendering experience, see the attached .pdf or .html. (In particular, tables fail ungracefully in this .md file).
 
 ## Why are prices so low on Balmung?
 
